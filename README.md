@@ -8,7 +8,8 @@ leetcode 22
 由动态数组实现最大堆再用优先队列      
  
 
-大话数据结构 339/463    
+大话数据结构 339/463      
+设计模式之禅 62/2687  
 Spring 技术内幕133/3383  
 Learning Algotithms Through Programming  21/169    
 Spring In Action 21/533  
