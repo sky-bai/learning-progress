@@ -14,7 +14,7 @@ leetcode 22
 图解HTTP 11/672  129/672    
 现代操作系统 50/583  
 mysql必知必会 快完了    
-Git-廖雪峰  
+Git-廖雪峰  (看完他的文章后我也想要有一台mbp)  
 Spring 技术内幕133/3383  
 Learning Algotithms Through Programming  21/169    
 Spring In Action 21/533  
